@@ -1,0 +1,11 @@
+## Created by TASG2012 on GitHub. Originates from repo TASG2012/ducky-payloads
+
+WINDOWS
+DELAY 100
+STRING Microsoft Edge
+DELAY 100
+ENTER
+DELAY 100
+GUI T
+DELAY 100
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran
