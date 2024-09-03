@@ -9,3 +9,5 @@ DELAY 100
 GUI T
 DELAY 100
 STRING https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran
+DELAY 100
+ENTER
